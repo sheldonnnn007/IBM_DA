@@ -62,7 +62,7 @@ DA need a mixed technical, functional, and soft skills
 > - An understanding of **Statistics, Analytical techniques, problem-solving**, the ability to probe a situation from multiple perspectives, data visualization, and project management skills – all of which come under Functional Skills a Data Analyst needs in order to play an effective role.
 > - **Soft Skills** include the ability to work collaboratively, communicate effectively, tell a compelling story with data, and garner support and buy-in from stakeholders. Curiosity to explore different pathways and intuition that helps to give a sense of the future based on past experiences are also essential skills for being a good Data Analyst. 
 
-
+## test
 
 
 
