@@ -46,7 +46,14 @@ Unstructured data is data that is not conventionally organized in the form of ro
 
 - Portable Document Format, or .PDF
 
-- JavaScript Object Notation, or ,JSON
+- JavaScript Object Notation, or .JSON
 
 # Souces of Data
 
+# Languages for Data Professional
+
+Query languages are designed for accessing and manipulating data in a database(SQL)
+
+Programming languages are designed for developing applications and controlling application behaviour(Python, R, Jave)
+
+Shell and Scripting languages are ideal for repetitive and time-consuming operational tasks(Unix/Linux Shell, PowerShell)
