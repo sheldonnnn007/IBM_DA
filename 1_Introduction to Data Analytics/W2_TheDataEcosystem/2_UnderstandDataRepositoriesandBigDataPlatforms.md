@@ -74,9 +74,12 @@
 (Created in response to the limitations of traditional database technology)
 - Primary advantage of NoSQL is its ability to handle large volumes of structured, semi-structured data.
 
-  More agile, flexible and iterate more quickly
+- More agile, flexible and iterate more quickly
+  
 
-![image-20230216170714169](/Users/sheldonnnn/Documents/一些学习笔记/IBMDA/photos/image-20230216170714169.png)
+
+
+![image-20230216171434111](./photos/image-20230216171434111.png)
 
   
 
