@@ -5,11 +5,18 @@
 #### Factors governing choice of database include:
 
 - Data type
+
 - Data structure
+
 - Querying mechanism
+
 - Latency requirements
+
 - Transaction speeds
+
 - Intended use of data
+
+  
 
 # Relational(RDBS) and Non-relational databases
 
