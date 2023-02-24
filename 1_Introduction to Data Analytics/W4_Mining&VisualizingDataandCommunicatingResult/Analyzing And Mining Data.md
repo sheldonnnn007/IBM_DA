@@ -93,6 +93,99 @@ Trend is the <u>general</u> tendency of a set of data to change over time
 >
 > A variety of software and tools are available for analyzing and mining data. Some of the popularly used ones include Spreadsheets, R-Language, Python, IBM SPSS Statistics, IBM Watson Studio, and SAS, each with their own set of characteristics, strengths, limitations, and applications. 
 
+## Communicating Data Analysis Findings
+
+### Overview of Communicating and Sharing Data Analysis Findings
+
+##### Data projects
+
+- The result of a collaborative effort spread across business functions.
+- People with multi-disciplinary skills
+- Findings incorporated in a larger business initiative
+
+As a data analyst, I need tell the story with my data by visualizing the insights clearly and creating a <u>structured narrative explicitly</u> targeted at your audience.
+
+Think about: 
+- Who is my audience?
+
+- What is important to them? 
+
+  Too much information will have my audience strugging to comprehend the point i am making. Presentation is not data dump, facts and figures alone do not influence decisions. I need make a compelling story, include only that info as is needed to address the business problems.
+
+- What will help them trust me?
+
+  Fall back on the assumption that what we're here for. Begin by demostrating the understanding of the <u>business problem</u> to audience and the outcome need to be solved.
+
+##### Structure my presentation
+
+Design my communication is to structure and organize my presentation for maximum impact
+
+- Reference my data: Establish my findings with data
+- State my assumptions: Work towards establishing credibility of your findings along the way, don't gloss over.
+- Organize my presentation
+- Identify the best formats for presenting my data
+
+ The Role of Visuals
+
+A powerful visualizations(graphs,charts,diagrams) are great way to <u>bring data to life</u>.Trust, Understanding, Reliability
+
+### Viewpoints: Storytelling in Data Analysis
+
+Humen naturlly understand the world with data
+
+It doesn't matter what information you have if you can not communicate it effectively to your audience.
+
+The best way to communicate your information is through visuals and telling a story
+
+
+
+### Introduction to Data Visualization
+
+Data Vis is the discipline of communicating info through the use of visual elements such as graphs, charts, and maps. Its goal is to make information easy to comprehend interpret and retain.
+
+##### Choosing appropriate visualisations:
+
+- What relationship I am trying to establish
+- Do i want to compare multiple values, such as the number of products sold, and revenues generated over the last three years?
+- Do i need my audience to see correlation between two variables?
+- Do i want to detect anomalies in data?
+
+whether the visualization needs to be static ot interactive
+
+
+
+# Summary
+
+> In this lesson, you have learned the following information: 
+>
+> Data has value through the stories that it tells. In order to communicate your findings impactfully, you need to: 
+>
+> - Ensure that your audience is able to trust you, understand you, and relate to your findings and insights.
+> - Establish the credibility of your findings.
+> - Present the data within a structured narrative.
+> - Support your communication with strong visualizations so that the message is clear and concise, and drives your audience to take action.
+>
+> Data visualization is the discipline of communicating information through the use of visual elements such as graphs, charts, and maps. The goal of visualizing data is to make information easy to comprehend, interpret, and retain. 
+>
+> For data visualization to be of value, you need to:
+>
+> - Think about the key takeaway for your audience.
+> - Anticipate their information needs and questions, and then plan the visualization that delivers your message clearly and impactfully.
+>
+> There are several types of graphs and charts available for you to be able to plot any kind of data, such as bar charts, column charts, pie charts, and line charts. 
+>
+> You can also use data visualization to build dashboards. Dashboards organize and display reports and visualizations coming from multiple data sources into a single graphical interface. They are easy to comprehend and allow you to generate reports on the go.
+>
+> When deciding which tools to use for data visualization, you need to consider the ease-of-use and purpose of the visualization. Some of the popularly used tools include Spreadsheets, Jupyter Notebook, Python libraries, R-Studio and R-Shiny, IBM Cognos Analytics, Tableau, and Power BI. 
+>
+> 
+
+
+
+
+
+
+
 
 
 
