@@ -56,3 +56,8 @@ Range of cells is often referred to as an array
 > - Press **CTRL+Home** to take you back to the start of the data in the worksheet (i.e. cell A2).
 > - Press **CTRL+Down Arrow** to take you to the end of the column you’re in
 > - Press **CTRL+Up Arrow** to take you back to the top of the column.
+
+
+
+
+
