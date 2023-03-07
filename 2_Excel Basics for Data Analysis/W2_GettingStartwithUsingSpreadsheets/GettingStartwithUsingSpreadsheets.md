@@ -17,7 +17,7 @@ relative references
 
 # 5 Referencing Data in Formulas
 
-
+- By default, Excel uses relative references 
 
 
 
