@@ -4,9 +4,18 @@
 
 # 2 Copying, Filling, and Formatting Cells and Data
 
+
+
+# 3 The Basics of Formulas
+
 relative references
 
+# 4 Intro to Functions
 
+- Avg; Min; Max; Count; Median
+- accrued interest function
+
+# 5 Referencing Data in Formulas
 
 
 
