@@ -8,7 +8,7 @@
 
 # 3 The Basics of Formulas
 
-relative references
+
 
 # 4 Intro to Functions
 
