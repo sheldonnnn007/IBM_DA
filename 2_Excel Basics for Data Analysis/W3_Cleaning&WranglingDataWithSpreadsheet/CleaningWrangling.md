@@ -37,4 +37,42 @@ remain compliant when we handle infos
 
 # Cleaning Data
 
-### Removing 
+### Removing Duplicated or Inaccurate Data and Empty Rows
+
+- How to deal with inaccurate data
+- How to remove empty rows
+- How to remove duplicated data
+
+### Dealing with Inconsistencies in Data
+
+- How to change the case of text
+
+  Change case
+
+- How to change data formatting
+
+- How to <u>trim</u> whitespace from data
+
+### More Excel Features for Cleaning Data
+
+- Flash Fill
+  Naming Convention
+- Text to Columns
+
+
+
+
+
+## Hands-on lab
+
+After completing this lab, you will be able to:
+
+- Understand how to deal with irrelevant or inaccurate data
+- Remove empty rows and duplicated data
+- Change text case and date formatting
+- Trim whitespaces from data
+- Use Flash Fill and functions to clean data
+
+In cell **A2** type **=LEFT(C2, SEARCH(“ “,C2,1))** and press **Enter**.
+
+In cell **B2** type **=RIGHT(C2,LEN(C2)-SEARCH(“ “,C2,1))** and press **Enter**.
