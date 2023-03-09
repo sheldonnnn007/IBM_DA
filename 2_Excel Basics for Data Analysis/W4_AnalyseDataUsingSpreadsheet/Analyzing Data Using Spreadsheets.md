@@ -38,17 +38,41 @@ What should be considered before changes maken:
 
 ### Filtering and Sorting Data in Excel
 
+##### Filtering
 
+##### Ordering
+
+- Text-based data - Alphabetically
+- Number-based data - Numerically
+- Data-based data - Chronologically
 
 ### Useful Functions for Data Analysis
 
+- IF
 
+  =IF(AD2>300,"Large",IF(AD2>100,"Medium",IF(AD2>0,"Small")))
+
+- IFs: nested IF function
+
+  =IFS(AD3>300,"Large",AD3>100,"Medium",AD3>0,"Small")
+
+- Conditional Formatting
+
+- CountIF
+
+- SUMIF; SUMIFS
+
+  =SUMIF(range, criteria, [sum range])
 
 ### Using VLOOKUP and HLOOKUP Functions
 
+B3: the value i am looking for
 
+![image-20230309163313211](./photo/image-20230309163313211.png)
 
+=VLOOKUP (value, table, col_index, [range_lookup])
 
+![image-20230309185511463](./photo/image-20230309185511463.png)
 
 ## Using Pivot Tables
 
@@ -59,6 +83,8 @@ Advantages:
 > Quickly summarize large datasets. A nice way to show only the info that is required
 >
 > Ability to display engaging charts and graphs
+
+
 
 ### Intro to Creating Pivot Tables in Excel
 
