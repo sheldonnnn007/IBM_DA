@@ -74,23 +74,9 @@ B3: the value i am looking for
 
 ![image-20230309185511463](./photo/image-20230309185511463.png)
 
-## Using Pivot Tables
+Advanced method: https://www.zhihu.com/question/27224727
 
-Advantages:
-
-> manipulate data without using formulas
->
-> Quickly summarize large datasets. A nice way to show only the info that is required
->
-> Ability to display engaging charts and graphs
-
-
-
-### Intro to Creating Pivot Tables in Excel
-
-
-
-### Pivot Table Features
+### 
 
 
 
