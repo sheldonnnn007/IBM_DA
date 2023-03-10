@@ -72,11 +72,25 @@ B3: the value i am looking for
 
 =VLOOKUP (value, table, col_index, [range_lookup])
 
-![image-20230309185511463](./photo/image-20230309185511463.png)
+Advanced vhlookup method: https://www.zhihu.com/question/27224727
 
-Advanced method: https://www.zhihu.com/question/27224727
 
-### 
+
+| VLOOKUP | (value, table_array,col_index,range) |
+| -------- | -------|
+| value | use "which one" to find |
+| Table_array |where to find|
+| Col_index |which col will be return|
+| Range |exact or approximate|
+| **Multiple layer** |  |
+| COLUMN |COLUMN() the order must  be mactched with original tale; the value we what to find must lay among the first col<br />VLOOKUP($L12, $A$4:$J$21, COLUMN(G4),0)|
+| Match |VLOOKUP($L12, $A$4:$J$21, MATCH(M$18, $A$3,),0)|
+|  ||
+| VLOOKUP |reverse lookup|
+| XLOOKUP |reverse lookup|
+| VLOOKUP |double search|
+| XLOOKUP |double search|
+| one to more lookup ||
 
 
 
