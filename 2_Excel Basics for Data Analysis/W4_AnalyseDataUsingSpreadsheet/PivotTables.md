@@ -16,7 +16,9 @@ Advantages:
 
 ### Intro to Creating Pivot Tables in Excel
 
-(Actually I just think pivot table is a simple version of tableau :smile: )
+(Actually I just think pivot table is a simple version of tableau :smile: ) 
+
+Pivot tables simplify analysis and really make analysis a lot faster. 
 
 ![image-20230310111045814](./photo/image-20230310111045814.png)
 
@@ -33,6 +35,7 @@ Drill down on the data
 
 
 
+Filters and Slicers:
 
-
-in a fit state to do sth
+- Slicers are on-screen graphical filter objects that enable you to filter your data using buttons, which makes it easier to perform quick filtering of your pivot table data. 
+- Timelines are another type of filter tool that enable you to filter specifically on date-related data in your pivot table. This is a much quicker and more effective way of dynamically filtering by date, rather than having to create and adjust filters on your date columns. 
