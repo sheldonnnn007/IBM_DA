@@ -1,7 +1,7 @@
 # The DA Role
 
 ## Resposibility of DA
-- Acquiring dta
+- Acquiring data
 - Creating queries to extract required data
 - Filtering, cleaning, standardizing, and reorganizeing data
 - Using statistical tools
@@ -24,7 +24,7 @@ Probing skills
 Visualization skills
 Project managements
 - Soft skills
-Tell a compelling an concincing story
+Tell a compelling and concising story
 **Curiosity**
 Intuition
 ****

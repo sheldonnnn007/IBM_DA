@@ -12,7 +12,7 @@ Leverage the work of DA and DS to look at possible implements to business
 # Defining DA
 + Understand past performance
 + Take informed decisions
-+ Validate course of action-saving time and resources, ensuring success
++ Validate course of action saving time and resources, ensuring success
 ## Diff types of DA
 + Descriptive Analytics "What happened"
 + Diagnostic Ana  "Why it happened"
@@ -22,5 +22,5 @@ Leverage the work of DA and DS to look at possible implements to business
 + Understanding the problem and desired result
 + Setting a clear metric
 + Gathering data,Cleaning data,Analysing and Mining data
-+ Interperting resutls,Presenting findings
++ Interpreting resutls,Presenting findings
 
