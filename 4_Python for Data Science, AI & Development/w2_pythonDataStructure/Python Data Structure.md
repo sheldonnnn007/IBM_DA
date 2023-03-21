@@ -42,5 +42,22 @@ delete:  del(DICT['key'])
 
 
 
-## Sets
+## Sets(no duplicate)
 
+Collection: input different types
+
+Unordered: do not record element position
+
+Set.add("new element")
+
+"element" in set
+
+set1.union(set2)
+
+Set1.issubset(set2)
+
+album_set1 & album_set2
+
+album_set1.difference(album_set2) 
+
+album_set1.intersection(album_set2)  
