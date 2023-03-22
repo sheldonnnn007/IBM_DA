@@ -40,5 +40,15 @@ Df1.to_csv("path.csv")
 
 ## Numpy in python
 
+import numpy as np
+
+a = np.array([0,1,2,3,4])
+
+np.dot(u,v)
+
+![image-20230321235023471](./photo/image-20230321235023471.png)
+
+![image-20230321235132241](./photo/image-20230321235132241.png)
+
 
 
