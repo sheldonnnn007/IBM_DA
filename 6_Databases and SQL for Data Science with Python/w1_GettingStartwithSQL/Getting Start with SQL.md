@@ -27,3 +27,36 @@ RMDS is not just to store data but also facilitate <u>retrieval</u> of the data
 Relational operation helps us in restricting the result set by allowing us to use the clause **WHERE**
 
 ![image-20230326172404133](./photos/image-20230326172404133.png)
+
+### Count, Distinct, Limit
+
+- Select **COUNT(Country)** from MEDALS where COUNTRY = 'CANADA'
+- Distinct is used to remove duplicate values.       
+  Select DISTINCT country from Medals where Medaltype = 'GOLD'
+- Limit: restrict the number of rows retrieved from the database
+  select * from tablename LIMIT 10
+
+### Insert
+
+![image-20230327100808958](./photos/image-20230327100808958.png)
+
+![image-20230327101348557](./photos/image-20230327101348557.png)
+
+![image-20230327101856980](./photos/image-20230327101856980.png)
+
+### Update, Delete
+
+remember the necessarity of WHERE, or the whole table will be modified even deleted
+
+![image-20230327102216908](./photos/image-20230327102216908.png)
+
+![image-20230327102444956](./photos/image-20230327102444956.png)
+
+![image-20230327102720005](./photos/image-20230327102720005.png)
+
+
+
+
+
+
+
