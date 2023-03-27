@@ -28,6 +28,11 @@ Relational operation helps us in restricting the result set by allowing us to us
 
 ![image-20230326172404133](./photos/image-20230326172404133.png)
 
+start from a specific row
+![image-20230327104740699](./photos/image-20230327104740699.png)
+
+
+
 ### Count, Distinct, Limit
 
 - Select **COUNT(Country)** from MEDALS where COUNTRY = 'CANADA'
@@ -56,7 +61,7 @@ remember the necessarity of WHERE, or the whole table will be modified even dele
 
 
 
-
+Data Manipulation Language (DML)
 
 
 
