@@ -54,7 +54,9 @@ Primary key not null: This **constraint** prevents duplicate values in the table
 
 Names of columns; Datatypes of columns; Constraints (e.g. Primary Key)
 
-## Alter, Drop and Truncate 
+## <u>Alter</u>, Drop and Truncate 
+
+
 
 <img src="./photos/image-20230328121621163.png" alt="image-20230328121621163" style="zoom:50%;" />
 
