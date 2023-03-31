@@ -28,7 +28,7 @@ ascending order by default
 
 <img src="./photos/image-20230329111521231.png" alt="image-20230329111521231" style="zoom:50%;" />
 
-Is the start letter same, so the sorting will be started from the point where the characters differ.
+If the start letter same, so the sorting will be started from the point where the characters differ.
 
 Use number to indicate the column
 select title, page from Book <u>ORDER BY 2</u>;
