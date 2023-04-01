@@ -1,0 +1,82 @@
+# High level SQL
+
+- view
+- stored procedure
+- ACID Tranctions
+- Join Overview; Inner Join; Outer Joins
+
+## View
+
+- A view can inclure specific columns from multiple base tables and existing views(<u>Kind of like the Pivot Table in Excel</u>). And data in the table can be modified by view
+- Once created, can be queried like a table
+- Only the definition of the view is stored, not the data of table itself
+
+#### Views can
+
+- show a selection of data without sensitive portions
+- combine two tables in a meanful way
+- **Simplify access to data**
+
+<img src="./photos/image-20230401123001773.png" alt="image-20230401123001773" style="zoom:50%;" />
+
+<img src="./photos/image-20230401123131891.png" alt="image-20230401123131891" style="zoom:50%;" />
+
+can not use OEDER BY clause
+
+- remove a view : DROP VIEW viewname
+
+
+
+## Stored procedure(Like a function)
+
+- A set of SQL statements stored and executed on the database server
+
+  <u>Instead of sending multiple SQL statements from the client to server, encapsulating them in a stored procedure on the server and send one statement from the client to execute them</u>
+
+- **Benefit**: Reduction in network traffic; Improvement in performance; Reuse of code; 
+
+  <u>Increase in security</u>: A: do not need to expose all of table and column infos to client-side developers  B:use server-side logic validate data before accepting into the system
+
+<img src="./photos/image-20230401132454783.png" alt="image-20230401132454783" style="zoom:50%;" />
+Invocation: CALL UPDATE_SAL('E1001', 1)
+
+
+
+## ACID (Atomic, consistent, isolated, durable) Transactions(like a tightly bunded code block)
+
+- indivisible unit of work 
+- consists of one or more SQL statements
+- either all happens ot onne
+
+If any of these UPDATE statemts fail, the whole transaction must fail.
+
+<img src="./photos/image-20230401134134358.png" alt="image-20230401134134358" style="zoom:50%;" />
+
+<img src="./photos/image-20230401134447847.png" alt="image-20230401134447847" style="zoom:50%;" />
+
+<img src="./photos/image-20230401134608065.png" alt="image-20230401134608065" style="zoom:50%;" />
+
+
+
+
+
+## Join
+
+#### Inner join
+
+
+
+
+
+#### Outer joins
+
+
+
+
+
+
+
+
+
+
+
