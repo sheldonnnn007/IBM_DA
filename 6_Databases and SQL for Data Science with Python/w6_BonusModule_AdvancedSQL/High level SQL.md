@@ -62,17 +62,41 @@ If any of these UPDATE statemts fail, the whole transaction must fail.
 
 ## Join
 
-#### Inner join
+to combine data from two tables, we use JOIN operator
+
+A JOIN combines the rows from two or more tables bases on a relationship betweenn certain columns in these tables 
+
+## Inner join
+
+Only rows from tables have matching values in a common column
+Usually the primary key of one table that exists as a foreign key in the second table
+
+<img src="./photos/image-20230401145808176.png" alt="image-20230401145808176" style="zoom:50%;" />
+
+<img src="./photos/image-20230401150007338.png" alt="image-20230401150007338" style="zoom:50%;" />
+
+## Outer joins
+
+From rows in tables that do not match
+
+Outer joins also return rows that do not have match cols in two tables
+
+<img src="./photos/image-20230401150917633.png" alt="image-20230401150917633" style="zoom:50%;" />
+
+<img src="./photos/image-20230401153928739.png" alt="image-20230401153928739" style="zoom:50%;" />
+
+### Left outer join
+
+All the data of the left table will be displayed irrespective it has a matching entry or not. (Then the rest cols whill be filled by NULL)
+But only data which is having mathing entries of the right table will be displayed.  
+
+### right..
 
 
 
+### Full..
 
-
-#### Outer joins
-
-
-
-
+Show everything.
 
 
 
