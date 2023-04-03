@@ -67,3 +67,26 @@ The test is intended to test how likely it is that an observed distribution is d
 <img src="./photos/image-20230403124051904.png" alt="image-20230403124051904" style="zoom:50%;" />
 
 <img src="./photos/image-20230403125459609.png" alt="image-20230403125459609" style="zoom:50%;" />
+
+
+
+#### <u>ANOVA</u>
+
+ANOVA analyzes the **difference between different groups of the same variable**, the groupby function will come in handy
+
+
+
+>- F-test core:  ANOVA assumes the means of all groups are the same, calculates how much the actual means deviate from the assumption, and reports it as the F-test score. A larger score means there is a larger difference between the means
+>- P-value: P-value tells how statistically significant our calculated score value is.
+>
+>If our price variable is **strongly correlated** with the variable we are analyzing, we expect ANOVA to return a **sizeable F-test** score and a **small p-value**.
+
+Explory the correlation between two types of "drive-wheels" 
+
+f_val, p_val = stats.f_oneway(grouped_test2.get_group('4wd')['price'], grouped_test2.get_group('rwd')['price'])
+
+
+
+
+
+
