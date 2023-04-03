@@ -81,7 +81,7 @@ ANOVA analyzes the **difference between different groups of the same variable**,
 >
 >If our price variable is **strongly correlated** with the variable we are analyzing, we expect ANOVA to return a **sizeable F-test** score and a **small p-value**.
 
-Explory the correlation between two types of "drive-wheels" 
+Explory the correlation between two types of "drive-wheels" : 4wd and rwd 
 
 f_val, p_val = stats.f_oneway(grouped_test2.get_group('4wd')['price'], grouped_test2.get_group('rwd')['price'])
 
