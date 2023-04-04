@@ -46,7 +46,7 @@ Sis.residplot(df['highway-mpg'], df['price'])
 
 <img src="./photos/image-20230403220223661.png" alt="image-20230403220223661" style="zoom:50%;" />
 
-##### Polynomial regression with more than **One D** (polyfit can not handle this case)
+##### Polynomial regression with more than **One D** (<u>high-D and high-order</u> polyfit can not handle this case)
 
 <img src="./photos/image-20230403222217358.png" alt="image-20230403222217358" style="zoom:50%;" />
 
@@ -89,11 +89,14 @@ Numerically evaluation: a way to numerically determine how good the model fits o
 
 ## 5. Prediction and Decision Making
 
+- Predictions should make sense
+- Plot, then caculate MSE
 
 
 
+Conclusion:
 
-
+Simple linear regression(SLR), Multiple Linear Regression(MLR), Polunomial Fit be used in this chapter. And MLR is best.
 
 
 
