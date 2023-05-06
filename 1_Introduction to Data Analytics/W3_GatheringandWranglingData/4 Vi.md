@@ -71,8 +71,10 @@ What is wealth solution:
    Why this role: 和我自己很匹配70-100:
    In this role, 
    **1.业务**：Im gonna to use my technology and business thinking to help our clients to make data-driven decisions to help them succeed. That what i realy wanna do. I am really excited about extracting useful infos and strategies from abstract data. I hope to leverage my knowledge and and technical skills to help others solve problem and make this world better.
-   **2.技术**：Inaddition, I am technology major, I am very familar with data analysis. I did many data analysis projects with the use of a wide range of technology. Expecially Microsoft excel, I am familiar with excel formulas vlookup pivot table and all kinds of charts and dashboard. Moreover, I am doing the business analysis study to develop my business thinking. All of these skills make me fit this role.
+   **2.技术**：In addition, I am technology major student, I am very familar with data analysis. I did many data analysis projects with the use of a wide range of technology. Expecially Microsoft excel, I am familiar with excel formulas vlookup pivot table and all kinds of charts and dashboard. Moreover, I am doing the business analysis study to develop my business thinking. All of these skills make me fit this role.
    **3.软技能**：On the other hand, I am also good at teamwork, I'm a team player and I work well with others. In my past teamworks, I can listen to their ideas and offer my own, and ultimately helping the team achieve our goals together. These will help to me to work and study in this wonderful team.
+
+   All in all, this role perfectly aligns with my career plan. I am interested in finance and data. In this role, my technical skills, business thinking, teamwork abilities, and understanding of finance will all be taken to the next level to paving the way for a successful career in this field. I am thrilled to join Aon and start my career.
 
 2. Describe a time when you had to be particularly adaptable and flexible to complete a task or project.
 
