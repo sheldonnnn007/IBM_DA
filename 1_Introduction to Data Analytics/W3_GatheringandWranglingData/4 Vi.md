@@ -61,7 +61,7 @@ What is wealth solution:
 1. with so many different opportunities available, please tell us why you have applied to Aon and what appeals to you about the role and career path you have selected.
 
    Why Aon: 
-   首先：社会责任感等方面50：I chose Aon because of their strong commitment to Environmental, Social, and Governance (ESG) principles. And Aon dedicate to creating a more resilient and sustainable future, combined with their innovative solutions, such as catastrophe bonds and green tech funding, prove they're not just talk.  I'm glad to join a company that's keep protecting and enriching lives while driving sustainable growth and making a real difference.
+   首先：社会责任感等方面50：I chose Aon because of your strong commitment to ESG principles. And Aon dedicate to creating a more resilient and sustainable future, with their innovative solutions, such as catastrophe bonds and green tech funding. I'm willing to join a company have strong social responsibility, to improve people's lives and make this world better.
 
    我选择怡安是因为他们对环境、社会和治理 (ESG) 原则的坚定承诺。 怡安致力于创造一个更具弹性和可持续发展的未来，结合他们的创新解决方案，如巨灾债券和绿色科技基金，证明他们不仅仅是空谈。 我很高兴能加入一家致力于保护和丰富生活，同时推动可持续增长并真正发挥作用的公司。
    其次：硬实力50：Moreover, 而且怡安作为行业领头羊(industry leader)，怡安拥有的大量数据(a wealth of data)为数据从业人员(data professionals)创造了良好的发展平台(development platform)。
