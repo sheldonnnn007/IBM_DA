@@ -37,7 +37,7 @@ What is wealth solution:
   Talking, listening, writing
   What am i thing about, who am i communicating with, what am i commnicating about and what's the end goal that i would like to achieve
 
-- Tell use a time you have a conflicting view with a teammate.
+- Tell us a time you have a conflicting view with a teammate.
   First: listening, I am gonna listen to u , to understand you.
   what are we arguing? Quantifiable or not?
   Key: when I communicate or argue with others, i will hold others idea in my head instead of want to beat others only.
@@ -83,7 +83,7 @@ What is wealth solution:
    - ﻿﻿How did your adaptability/flexibility contribute to getting the job done?
    - ﻿What was the outcome?
 
-   > I believe I am an adaptable and flexible person, as I often demonstrate these qualities in my life. To give an example about that:
+   > I believe I am an adaptable and flexible person, as I often **demonstrate** these qualities in my life. To give an example about that:
    >
    > During one summer break, I worked as a cashier in my relative's supermarket. On a busy Friday afternoon, many people were finishing work and buying groceries for the following week. Unfortunately, two of the cashiers were unavailable that day – one was sick, and the other had to leave early to pick up her child. So, a security guard and I were the only staff members in the supermarket that evening. As our 9 pm closing time approached, there was still a long line of customers waiting to check out, and more customers were still coming in. 
    >
@@ -104,14 +104,14 @@ What is wealth solution:
    - ﻿What was the end result?
    - ﻿Would you do anything differently next time?
 
-   > I am a well-orginized person., and I typically complete my tasks three days before the deadline. I'd like to share the tough period I am going trough right now and how I am managing it.
-   > From last month, east break to this month,  I've been juggling three coursework projects, four exams, and a literature review for my dissertation. All of these tasks have strict deadlines without any compromising.  In addition, I'm taking two online courses and working on personal projects to prepare for job applications. Moreover, I am a gym rat, I usually go to gym 5 times a week, it has last 2 years, that's important to me.  I need to be highly organized to manage everything effectively.
+   > I am a well-orginized person., and I always complete my tasks three days before the deadline. All of these benifit from my good time planning. For example, I am going trough a busy time right.
+   > From last month, east break to this month,  I've been (working)juggling three coursework projects, four exams, and a literature review for my dissertation. All of these tasks have strict deadlines without any compromising.  In addition, I'm taking two online courses and working on my personal projects to prepare for job applications. Moreover, I am a gym rat, I usually go to gym 5 times a week, it important to me has last 2 years. I need to be highly organized to manage everything effectively.
    >
-   > To keep track of my tasks and deadlines, I write them down on a piece of paper and stick it to the wall next to my bed. This way, I can remind myself of my priorities every morning and night. I also create a daily to-do list, scheduling tasks based on their importance and deadlines. Lower-priority tasks, like self-study and gym sessions, are placed at the bottom of the list.
+   > To keep track of my tasks and deadlines, I write them down on a piece of paper and stick it to the wall next to my bed. This way, I can remind myself of my priorities every morning and night. I also create a daily to-do list, scheduling tasks based on their deadlines. Lower-priority tasks, like self-study and gym sessions, are placed at the bottom of the list.
    >
-   > To ensure the quality of my work, I consider the difficulty of each task when allocating time. Since I'm most effective in the morning, I tackle challenging tasks like machine learning and deep learning early in the day, while leaving relatively easier tasks for the afternoon and evening. I also maintain regular communication with my classmates to discuss any issues we encounter.
+   > To ensure the quality of my work, I also consider the difficulty of each task when allocating time. Since I'm most effective in the morning, I tackle challenging tasks like machine learning and deep learning early in the day, while leaving relatively easier tasks for the afternoon and evening. I also maintain regular communication with my classmates to discuss any issues we encounter.
    >
-   > Due to my busy schedule, I occasionally have to sacrifice cooking or gym time to complete urgent tasks. However, I've managed to achieve good grades on my coursework and maintain my motivation and health with some basic exercise. I'm confident that my exam results will be as good as I did last semester.
+   > Due to my busy schedule, I occasionally have to sacrifice cooking or gym time to complete urgent tasks. Thus, I achieved good grades on my coursework and maintain my motivation and health with some basic and easier exercise. I'm confident that my exam results will be as good as I did last semester.
    >
    > In summary, I'm an organized person capable of handling heavy workloads. My daily task scheduling and prioritization strategies help me to ensure everything gets done effectively and efficiently.
 
@@ -125,17 +125,17 @@ What is wealth solution:
 
    How would you know if the customer was satisfied?
 
-   > As a data analyst working in a team and cooperating with different clients, it's inevitable that I might encounter situations where clients are not satisfied with the provided solutions. In such cases, I would take the following steps to address their concerns:
+   > As a data analyst working in a team and cooperating with different clients, it's inevitable to encounter situations where clients are not satisfied with the provided solutions. In such cases, I would take the following steps to address their request:
    >
-   > 1**Listening**:I will attentively listen to the client and let them express their concerns. I would use effective communication skills to show them that they have my full attention and respect.
+   > 1First, I would <u>attentively</u> listen to the client and let them express their requests. I would use effective communication skills to show them that they have my full attention and respect.
    >
-   > 2**Ask question and collect more information**: Next, I would ask them some open-end questions, like any expectations, any constraints and resources,  to guide the client in clearly expressing their requirements. U know sometimes people find hard to express themself clearly. It's important to help clients articulate their needs. 
+   > 2**Next**, I would ask them some questions, to guide the client in clearly expressing their requirements. U know sometimes people find hard to express themself clearly. It's important to help clients articulate their needs. 
    >
    > 3**Establish a common connection**: I would try to build a common connection with the client, demonstrating that we are working together to address their concerns. This approach can ease tensions and defuse potential issues.
    >
-   > 4**Come up with a solution or a recommendation that they are happy with.**: I would attempt to develop a resolution for their problem. If I'm unable to solve it immediately, I would apologize to the client and explain the situation. Then, I would reach out to my colleagues or manager for help and provide the client with feedback as soon as possible. Finally, I would follow up with the client a day or so later to confirm their satisfaction. 
+   > 4**Come up with a solution or a recommendation that they are happy with.**: I would try to give them solutions. If I'm unable to solve it immediately, I would apologize and explain the situation. Then, I would reach out to my colleagues or manager for help and provide the client with feedback as soon as possible. Finally, I would follow up with the client in a few days to confirm their satisfaction and see if I can help more. 
    >
-   > Effective communication and problem-solving skills are essential for data analysts to maintain strong relationships with clients and address their problems. By following these steps, I would provide the best possible solution to the customer's problem, maintaining open communication and ensuring their needs are met to their satisfaction.
+   > Effective communication and problem-solving skills are essential for data analysts to maintain strong relationships with clients. By these steps, I maintain open communication and ensure their requests are met.
 
 5. Tell me about a time you were assigned to a group project but did not know any other members of the group. AGILE
 
@@ -144,15 +144,15 @@ What is wealth solution:
    - ﻿How did you interact with your teammates during the course of the project?
    - ﻿What was the outcome of your efforts?
 
-   > **As a qualified team player,** it's essential to adapt to a new team quickly. I'd like to share an experience where I had to team up with three unfamiliar people to complete a project. Our tutor randomly assigned us to a group.
+   > **As a qualified team player,** it's essential to adapt to a new team quickly. I'd like to share one of my experience where I had to team up with three unfamiliar people to complete a project. Our tutor assigned us to a group randomly.
    >
-   > **Once** we were placed into our group, the first thing we did was hold a meeting to introduce ourselves. I shared my background, skills, and interests, mentioning that I'm a tech-<u>savvy</u> student and can take more technical tasks if needed. I encouraged my teammates to do the same, which helped us understand each other's strengths and areas of expertise.
+   > **Once** we were placed into our group, the first thing we did was hold a meeting to introduce ourselves. I shared my background, skills, and hobbies expecially my strength what I can contribute to this team project. I encouraged my teammates to do the same, which helped us understand each other and what parts we good at.
    >
-   > **Throughout** the project, we assigned tasks based on our strengths and interests. The process wasn't always smooth sailing. At one point, I disagreed with a teammate, and we held different opinions. We couldn't reach an agreement during the team meeting, so we had a one-on-one discussion to resolve the issue. In the end, we found a compromise; sometimes, there isn't a perfect choice, but effective communication and understanding can lead to a relatively better agreement. After outlining our plan, we held online team meetings twice a week to discuss our progress, address problems, and find solutions to keep the project on track.
+   > **Throughout** the whole project, we first assigned tasks based on our strengths and interests. After outlining our plan, we held online team meetings twice a week to discuss our progress and propose questions on chat group whenever, we help each other and address our problems togather. We did not let anyone lost and keep the project on the right way.
    >
-   > **Finally** we delivered the project on time and received an great score. More importantly, we worked together <u>harmoniously</u>, and we've maintained our friendships to this day.
+   > **Finally** we delivered the project on time and received an great score. More importantly, we worked together <u>harmoniously</u>, and we have maintained our friendships to this day.
    >
-   > To summarize, When I join a new team, I focus on getting to know each other, understanding everyone's strengths, and hold Agile values for collaboration.
+   > To summarize, When I join a new team, I focus on getting to know each other, understanding everyone's strengths, and hold an Agile value in collaboration.
 
 6. Describe a time when you adopted a creative approach to overcome a major setback
 
@@ -163,15 +163,16 @@ What is wealth solution:
    - ﻿How did you feel about your ability to overcome the setback?
    - What was the result
 
-   > 1This question makes me remerber a small business i did. During my second year of undergraduate studies, I embarked on a small self-funded business, selling counterfeit shoes through e-commerce. It was an interesting learning experience. It's improper, I only did two months, let just focus on the process.
+   > 1I have always been a creative non-conformist since I was a child.
+   > Let me share a small self-founded business i did during the second year of my undergraduate study, Selling counterfeit shoes,fake shoes through e-commerce. It's improper, an interesting experience tho.
    >
-   > 2At that time, Adidas Yeezy shoes were extremely popular, and I wanted a pair. However, they were too expensive for me, and I didn't want to ask help from my parents. So, I decided to start a small online business to buy myself a pair of shoes. I did everything from scratch, That's a long story let's just focus on the how to attract customers.
+   > 2At that time, a type of shoes Adidas Yeezy were extremely popular, and I wanted a pair Yeezy. However, they were too expensive for me, and I didn't want to ask help from my parents. So, I decided to have online business to buy myself a pair of shoes. I did everything from scratch, That's a long story let's just focus on the how I attract customers.
    >
-   > 3At that time, I had everything but customer, I felt frustrated but not give up and started to think about what would i do if i wanna buy a pair of fake shoes online. I will search on Baidu, China's largest search engine. So how can i show my social media account when people search the key words. There are few ways dig out but only one feasible to a student like me. Write articles about counterfeit shoes and posting them on search engines that collaborated with Baidu. This way, sometimes the articles would appear in Baidu's search results and my social media account be hided in the artical.
+   > 3At that time, I had everything but customer, I tried many methods and felt frustrated but not give up and calm down to think, what would i do if i wanna buy a pair of fake shoes online. I will search on Baidu, China's largest search engine. So how can i show people my social media account when people search the key words. I did some research, there are few ways but only one feasible to me. Write articles about surronding with some keywords and poste them on search engines that collaborated with Baidu. In this way, sometimes the articles would appear in Baidu's search results and my social media account be hided in the artical.
    >
-   > 4So I wrote articles using <u>different keywords</u>, and eventually, one of them gained traction. When people searched for a specific keyword, my article would show up on the first line of the search results. This led to my first transaction, and within a month, I earned enough money to buy two pairs of Yeezy. I then stopped the business, since it wasn't proper, and I have achieved my goal, needed to focus on my studies.
+   > 4So I wrote articles using <u>different keywords</u>, and eventually, one of them gained traction. When people searched for a specific keyword, my article would shows up on the first line of the search results. This led to my first transaction, and within a month, I earned enough money to buy two pairs of shoes. I then stopped the business, since it wasn't proper, and I have achieved my goal, needed to focus on my studies.
    >
-   > <u>In summary this experience taught me the importance of understanding customers' perspectives and keep thinking, using creative methods to achieve my goals. The key lesson was to put myself in the customers' shoes and use techniques like the "five whys" to uncover the root cause of a problem, allowing me to address it effectively.</u>
+   > That's my interesting experience, which bring me the problem-solving abilities.<u>The thing is put myself in the customers' shoes and use methods like the "five whys" to uncover the root cause of a problem.</u>
 
 7. Describe a time when you presented an idea and influenced your audience to commit to a course of action.
 
@@ -182,12 +183,18 @@ What is wealth solution:
    - ﻿What follow-up plans did you make to ensure follow through?
    - ﻿What was the outcome?
 
-   > About this question, I'd like to share an experience I worked for a sustainability project with three teammate to identify what we based on our different disciplines:
+   > About this question, I'd like to share an experience I worked for a sustainability project with three teammate to identify what we can do based on our different disciplines:
    >
-   > - I collaborated with three teammates from different disciplines: two data analysts, a traffic design major, and a mechanical engineering major. Initially, the team proposed working on separate topics and combining them into a single presentation. However, I realized that this approach wouldn't fulfill our tutor's teamwork requirements.
-   > - Then I conducted research and found a common topic, Sustainable Urban Mobility, which allowed each team member to contribute their expertise. I presented my idea in a group meeting, emphasizing the benefits of collaboration and teamwork.
-   > - Persuaded by my argument, my teammates adapted to this new course of action. We agreed on the following roles: data analysts would analyze traffic data, the traffic design major would develop bicycle lanes and pedestrian zones, and the mechanical engineering major would design energy-efficient vehicles.
-   > - To ensure follow-through, we established regular progress meetings, delegated tasks based on expertise, set milestones and deadlines, and encouraged continuous collaboration.
-   > - This approach resulted in a successful project with a well-structured report and presentation on Sustainable Urban Mobility. 
+   > - We four from three different disciplines: two data analystic, a traffic design, and a mechanical engineering. Initially, the team proposed working on separate topics and combining them into a single presentation. However, I think that wouldn't fulfill our tutor's requirement, we need complete a teamworks instead of four perisonal works then squeezed together.
+   > - Then I did some research and found a proper topic, Sustainable Urban Mobility, which allowed each team member to contribute by their expertise. I raised my idea in a group meeting, emphasizing the benefits of collaboration and teamwork.
+   > - Persuaded by my argument, my teammates adapted to this new topic. We agreed on the following roles: data analysts would analyze traffic data, the traffic design major would develop bicycle lanes and pedestrian zones, and the mechanical engineering major would design energy-efficient vehicles.
+   > - To ensure follow-through, we established regular progress meetings, set milestones and deadlines, and encouraged continuous collaboration.
+   > - This approach resulted in a successful project with a well-structured report and presentation on our common topic. 
    >
-   > You know, I am a good listener and a team player. I **prioritize** the team, and if necessary, I am able to be a team leader and provide advice to help my team reach the final goal.
+   > You know, I am a good listener and a team player. But I **never** afriad to express my opinions in fornt of other team members as long as it would guid our team in a better direction.
+
+
+
+
+
+The process wasn't always smooth sailing. At one point, I disagreed with a teammate, and we held different opinions. We couldn't reach an agreement during the team meeting, so we had a one-on-one discussion to resolve the issue. In the end, we found a compromise; sometimes, there isn't a perfect choice, but effective communication and understanding can lead to a relatively better agreement. 
